@@ -1,0 +1,11 @@
+Uniform - % de votação primeiro turno em 2018
+Daí 47,5% pesquisa ND mais (Vale do Itajaí)
+Daí 48,26% tendo em base tamanho da população, % homens, votação em Bolsonaro 2018
+Daí 47.12563 % Lula 2006, Ciro 2018 e % curso superior
+
+
+Base 66 = nome do arquivo para o próximo posteriori
+indepe
+% Bolsonaro 2018/votação em outros no Vale do Itajaí (vide imagem fonte)(para ALto vale média )
+% Bolsonaro 2018/votação Nenhum/branco/nulo
+% Bolsonaro 2018/indeciso*47,5%
